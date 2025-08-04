@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 V2 23:6
+=======
+V3 23:11
+>>>>>>> cd2312f (CHORES: 23:11)
 V1 23:03
 V0 INITIAL COMMIT
